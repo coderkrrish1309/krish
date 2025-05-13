@@ -1672,8 +1672,8 @@ input:-webkit-autofill:active {
 }
 
 .user-bg {
-  width: 325px;
-  height: 407px;
+  width: 426px;
+  height: 447px;
   background-color: rgba(var(--p1), 1);
   animation: rotatedBg 10s infinite linear;
 }
@@ -1689,8 +1689,8 @@ input:-webkit-autofill:active {
 .user-img {
   position: absolute;
   top: 0px;
-  width: 325px;
-  height: 407px;
+  width: 406px;
+  height: auto;
 }
 
 .line {
